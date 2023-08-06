@@ -11,4 +11,4 @@ Esto es un prueba de suplantacion de identidad
 
 
 ## Hola Mundo soy Zoro
-> **Estoy practincado hacer un fork + pull request**
+> **Estoy practicando hacer un fork + pull request**

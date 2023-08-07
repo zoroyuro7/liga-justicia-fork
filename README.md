@@ -12,3 +12,5 @@ Esto es un prueba de suplantacion de identidad
 
 ## Hola Mundo soy Zoro
 > **Estoy practicando hacer un fork + pull request**
+
+## cambio de diego (el dueño del repo)
